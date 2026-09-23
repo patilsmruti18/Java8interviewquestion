@@ -7,8 +7,8 @@ public class Demo10 {
 
     public static void main(String[] args) {
 
-        int[] first = {5, 2, 8, 2};
-        int[] second = {1, 7, 3, 5};
+        int[] first = {5, 2, 8, 2,8};
+        int[] second = {1, 7, 3, 5,9};
 
         int[] result =
                 IntStream.concat(
