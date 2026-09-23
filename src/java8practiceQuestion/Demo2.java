@@ -16,7 +16,7 @@ public class Demo2 {
                 languages.stream()
                         .distinct()
                         .collect(Collectors.toList());
-
+        System.out.println(languages);
         System.out.println(result);
     }
 }
