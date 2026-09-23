@@ -9,7 +9,7 @@ public class Demo3 {
 
     public static void main(String[] args) {
 
-        String str = "Java";
+        String str = "coffee";
 
         Map<String, Long> result =
                 Arrays.stream(str.split(""))
