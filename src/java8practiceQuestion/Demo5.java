@@ -8,7 +8,7 @@ public class Demo5 {
     public static void main(String[] args) {
 
             List<Double> numbers =
-                    Arrays.asList(12.5, 45.2, 8.5, 90.1);
+                    Arrays.asList(12.5, 45.2, 83.5, 90.1);
 
             numbers.stream()
                     .sorted(Comparator.reverseOrder())
