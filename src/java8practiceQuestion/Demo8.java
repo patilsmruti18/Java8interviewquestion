@@ -8,7 +8,7 @@ public class Demo8 {
     public static void main(String[] args) {
 
         List<Integer> numbers =
-                Arrays.asList(45, 12, 89, 34, 67, 10);
+                Arrays.asList(45, 12, 89, 35, 67, 10);
 
         int maximum =
                 numbers.stream()
