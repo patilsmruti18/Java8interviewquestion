@@ -5,9 +5,6 @@ import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 public class Demo4{
-
-
-
     public static void main(String[] args) {
 
         List<String> items =
@@ -15,7 +12,7 @@ public class Demo4{
                         "Pen",
                         "Pencil",
                         "Pen",
-                        "Eraser",
+                        "BluePen",
                         "Pencil",
                         "Pen"
                 );
