@@ -8,7 +8,7 @@ public class Demo6 {
     public static void main(String[] args) {
 
         List<String> languages =
-                Arrays.asList("Java", "Python", "C++");
+                Arrays.asList("Java", "Python", "C++","DSA");
 
         String result =
                 languages.stream()
